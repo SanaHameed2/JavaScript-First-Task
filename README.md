@@ -1,7 +1,7 @@
 🌱 My First JavaScript Task
 
 Hello world! 👋
-This is the very first step of my development journey — a simple but meaningful project that connects an HTML file with a JavaScript file.
+This is the very first step of my programming journey — a simple but meaningful project that connects an HTML file with a JavaScript file.
 
 📄 About This Project
 This project consists of a basic HTML file (index.html) that links to an external JavaScript file (app.js). This foundational step marks the start of something greater.
